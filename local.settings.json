@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ServiceBusStorageConnectionString": "Endpoint=sb://a3dvhrbsb01.servicebus.windows.net/;SharedAccessKeyName=a3dvbwosbq-fielddatachange-2021-sandbox-manage;SharedAccessKey=xXOOoSoDZGml/xNjqqYZEzg4TbReDC8p+jkZpgpQMKU=",
+    "queuename": "a3dvbwosbq-fielddatachange-2021-sandbox"
+  }
+}
