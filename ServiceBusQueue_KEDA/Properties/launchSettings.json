@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "testServiceBusQueueTrigger": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 33766,
+      "useSSL": false
+    }
+  }
+}
