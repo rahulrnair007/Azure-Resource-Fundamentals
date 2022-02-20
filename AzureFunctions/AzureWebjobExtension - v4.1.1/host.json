@@ -1,0 +1,19 @@
+{
+    "version": "2.0",
+    "extensions": {
+        "serviceBus": {
+            "sessionHandlerOptions": {
+                "autoComplete": true,
+                "maxConcurrentSessions": 200
+            }
+        }
+    },
+    "logging": {
+        "applicationInsights": {
+            "samplingSettings": {
+                "isEnabled": true,
+                "excludedTypes": "Request"
+            }
+        }
+    }
+}
